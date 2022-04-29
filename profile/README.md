@@ -1,4 +1,4 @@
-## Hi there 👋
+##Center for Computational Biology and Bioinformatics
 
 The Center for Computational Biology Bioinformatics (CCBB) provides institute-wide bioinformatics analytics for Scripps Research as well as for external collaborators. We offer scientific support to assist in the experimental design, collection, analysis, integration and dissemination of biomedical data and knowledge. Projects will often vary in time and cost depending on the scientific goals of the work and the desired level of analysis. We work with a wide range of bioinformatics analyses and support research in a cost-effective manner.
 <!--
